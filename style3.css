@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+  color: gold;
+}
+table{
+  border: gold;
+ 
+  background-color: dimgray;
+}
+h1{
+  color:gold;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: serif;
+}
+
+form{
+  color: gold;
+  square: gold;
+}
+
+hr{
+  background-color: slategray;
+  resize :100px;
+}
+
+i{
+  font-family: serif;
+  font-size: 18px;
+  color: black;
+}
+
+b{
+  font-family: Serif;
+}
+
+br{
+  font-size: 10px;
+}
